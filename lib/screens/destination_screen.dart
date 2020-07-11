@@ -8,6 +8,7 @@ class DestinationScreen extends StatefulWidget {
 
   DestinationScreen({this.destination});
 
+  
   @override
   _DestinationScreenState createState() => _DestinationScreenState();
 }
